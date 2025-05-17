@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID"><head>
     
-    <title>SLOT GACOR 4D GAME SITUS SLOT GACOR MAXWIN TERPERCAYA SLOT88 GAMPANG MENANG</title>
-    <meta name="description" content="Slot Gacor 4D Game adalah link slot88 situs slot gacor gampang menang maxwin hari ini yang menawarkan RTP tinggi, sistem terpercaya, dan link koleksi game lengkap, serta peluang kemenangan terjamin." />
+    <title>SLOT777: Link Situs Slot Gacor Online Server Thailand Via Dana Gampang Menang</title>
+    <meta name="description" content="Peroleh kemenangan melalui link slot gacor hari ini gampang menang di situs slot777 online server Thailand via dana payment terbaik PGA lisensi PAGCOR." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp" content="[{&quot;filter&quot;:&quot;exp-tracking=suggest-official-store&quot;,&quot;logkey&quot;:&quot;/lzdse.result.os_impr&quot;,&quot;props&quot;:[&quot;href&quot;],&quot;tag&quot;:&quot;a&quot;}]" />
     <meta name="data-spm" content="Slot Gacor" />
@@ -10,16 +10,16 @@
     <meta name="language" content="Indonesia" />
     <meta name="author" content="Slot Gacor" />
     <meta name="og:url" content="https://makassar.ut.ac.id/" />
-    <meta name="og:title" content="SLOT GACOR 4D GAME SITUS SLOT GACOR MAXWIN TERPERCAYA SLOT88 GAMPANG MENANG" />
+    <meta name="og:title" content="SLOT777: Link Situs Slot Gacor Online Server Thailand Via Dana Gampang Menang" />
     <meta name="og:type" content="product" />
-    <meta name="og:description" content="Slot Gacor 4D Game adalah link slot88 situs slot gacor gampang menang maxwin hari ini yang menawarkan RTP tinggi, sistem terpercaya, dan link koleksi game lengkap, serta peluang kemenangan terjamin." />
+    <meta name="og:description" content="Peroleh kemenangan melalui link slot gacor hari ini gampang menang di situs slot777 online server Thailand via dana payment terbaik PGA lisensi PAGCOR." />
     <meta name="keywords" content="slot gacor, situs slot, slot gampang menang, slot, slot gacor hari ini, situs gacor" />
-    <meta name="og:image" content="https://i.postimg.cc/fbQJvqdk/The-Types-of-Slot-Games-that-are-Easy-to-Play-and-Easy-to-Win-that-You-Should-Know-03.jpg" />
+    <meta name="og:image" content="https://pick-kart.com/wp-content/uploads/2024/05/Gacor-Slot.webp" />
     <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/fyR3939K/88a2a16fa3123adfbdd24bf5c6452491.jpg" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="https://makassar.ut.ac.id/" />
     <link rel="amphtml" href="https://makassar-ivory.vercel.app/" />
-    <link rel="preload" href="https://i.postimg.cc/fbQJvqdk/The-Types-of-Slot-Games-that-are-Easy-to-Play-and-Easy-to-Win-that-You-Should-Know-03.jpg" as="image" />
+    <link rel="preload" href="https://pick-kart.com/wp-content/uploads/2024/05/Gacor-Slot.webp" as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com" />
@@ -131,7 +131,7 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://i.postimg.cc/fbQJvqdk/The-Types-of-Slot-Games-that-are-Easy-to-Play-and-Easy-to-Win-that-You-Should-Know-03.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"SLOT GACOR 4D GAME SITUS SLOT GACOR MAXWIN TERPERCAYA SLOT88 GAMPANG MENANG","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://pick-kart.com/wp-content/uploads/2024/05/Gacor-Slot.webp","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"SLOT777: Link Situs Slot Gacor Online Server Thailand Via Dana Gampang Menang","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -187,16 +187,16 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
         }
 
         .lzd-logo-bar {
-            background:  #c8c2df;
+            background:  #9729ad;
         }
 
         #container,
         body {
-            background: linear-gradient(to bottom, #c8c2df 0%, #c8c2df 100%);
+            background: linear-gradient(to bottom, #9729ad 0%, #9729ad 100%);
         }
 
         #pdp-nav {
-            background: linear-gradient(to bottom, #c8c2df 0%, #c8c2df 100%);
+            background: linear-gradient(to bottom, #9729ad 0%, #9729ad 100%);
         }
 
         .lzd-header-banner {
@@ -595,8 +595,8 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "SLOT GACOR 4D GAME SITUS SLOT GACOR MAXWIN TERPERCAYA SLOT88 GAMPANG MENANG",
-                "image": "https://i.postimg.cc/fbQJvqdk/The-Types-of-Slot-Games-that-are-Easy-to-Play-and-Easy-to-Win-that-You-Should-Know-03.jpg",
+                "name": "SLOT777: Link Situs Slot Gacor Online Server Thailand Via Dana Gampang Menang",
+                "image": "https://pick-kart.com/wp-content/uploads/2024/05/Gacor-Slot.webp",
                 "category": "Televisi & Video",
                 "brand": {
                     "@type": "Brand",
@@ -605,7 +605,7 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
                 },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "Slot Gacor 4D Game adalah link slot88 situs slot gacor gampang menang maxwin hari ini yang menawarkan RTP tinggi, sistem terpercaya, dan link koleksi game lengkap, serta peluang kemenangan terjamin.",
+                "description": "Peroleh kemenangan melalui link slot gacor hari ini gampang menang di situs slot777 online server Thailand via dana payment terbaik PGA lisensi PAGCOR.",
                 "url": "https://makassar.ut.ac.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -658,7 +658,7 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
                     "position": 5,
                     "item": {
                         "@id": "https://makassar.ut.ac.id/",
-                        "name": "SLOT GACOR 4D GAME SITUS SLOT GACOR MAXWIN TERPERCAYA SLOT88 GAMPANG MENANG"
+                        "name": "SLOT777: Link Situs Slot Gacor Online Server Thailand Via Dana Gampang Menang"
                     }
                 }]
             }
@@ -973,7 +973,7 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
                                 </div>
                                 <div class="lzd-nav-search" data-spm="search">
                                     <marquee behavior="" direction="">
-                                      Slot Gacor 4D Game adalah link slot88 situs slot gacor gampang menang maxwin hari ini yang menawarkan RTP tinggi, sistem terpercaya, dan link koleksi game lengkap, serta peluang kemenangan terjamin.</marquee>
+                                      Peroleh kemenangan melalui link slot gacor hari ini gampang menang di situs slot777 online server Thailand via dana payment terbaik PGA lisensi PAGCOR.</marquee>
                                     <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
                                 </div>
                                 <div class="lzd-nav-menu-redmart" style="display: none">
@@ -3443,7 +3443,7 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
                         <div class="item-gallery" data-spm="gallery">
                             <div class="gallery-preview-panel">
                                 <div class="gallery-preview-panel__content">
-                                    <img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT GACOR 4D GAME SITUS SLOT GACOR MAXWIN TERPERCAYA SLOT88 GAMPANG MENANG" src="https://i.postimg.cc/fbQJvqdk/The-Types-of-Slot-Games-that-are-Easy-to-Play-and-Easy-to-Win-that-You-Should-Know-03.jpg" />
+                                    <img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT777: Link Situs Slot Gacor Online Server Thailand Via Dana Gampang Menang" src="https://pick-kart.com/wp-content/uploads/2024/05/Gacor-Slot.webp" />
                                 </div>
                             </div>
                         </div>
@@ -3495,7 +3495,7 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
                                 <div class="pdp-product-title">
                                     <div class="pdp-mod-product-badge-wrapper">
                                         <h1 class="pdp-mod-product-badge-title">
-                                           SLOT GACOR 4D GAME SITUS SLOT GACOR MAXWIN TERPERCAYA SLOT88 GAMPANG MENANG
+                                           SLOT777: Link Situs Slot Gacor Online Server Thailand Via Dana Gampang Menang
                                         </h1>
                                         <div class="n-columns-2">
                                             <a href="https://onghuat.site/games/slot5k" rel="nofollow noreferrer" class="login">LOGIN</a>
@@ -3607,7 +3607,7 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
 
                                 .content a {
                                     font-weight: bold;
-                                    color: #c8c2df;
+                                    color: #9729ad;
                                 }
 
                                 .content a:hover {
@@ -3617,7 +3617,7 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
                             
 
                             <div class="content">
-                                <p><a href="https://makassar.ut.ac.id/">Slot Gacor</a> 4D Game adalah link slot88 situs slot gacor gampang menang maxwin hari ini yang menawarkan RTP tinggi, sistem terpercaya, dan link koleksi game lengkap, serta peluang kemenangan terjamin.</p>                          
+                                <p><a href="https://makassar.ut.ac.id/">Peroleh kemenangan melalui link slot gacor hari ini gampang menang di situs slot777 online server Thailand via dana payment terbaik PGA lisensi PAGCOR.</a></p>                          
                                 
 
 
@@ -4215,7 +4215,7 @@ var n=t.changedTouches[e],o={};for(var a in n)o[a]=n[a];var s={startTouch:o,star
             display: flex;
             justify-content: space-around;
             position: fixed;
-            background: linear-gradient(to bottom, #c8c2df 0%, #c8c2df 100%);
+            background: linear-gradient(to bottom, #9729ad 0%, #9729ad 100%);
             padding: 15px 0;
             box-shadow: 0 0 8px 4px #6a6a6a;
             left: 0;
